@@ -3,11 +3,12 @@ entries:
   apache:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-06-07T20:06:19.459354821Z
-    description: A Helm chart for Kubernetes,which uses a custom docker image
-    digest: 651c7fe25c4a50aae3654e8f6a375ca14afe62e025460c3e7233e393f36d07a6
+    created: 2020-06-08T13:00:13.102107178Z
+    description: A Helm chart for Kubernetes,which uses a custom docker image and
+      updates
+    digest: 2a7a9c16f3ca2532258a91457bfb9cddfd4cb4fcfcdefca3482baf888b9b7bcb
     name: apache
     urls:
-    - apache-0.1.0.tgz
-    version: 0.1.0
-generated: 2020-06-07T20:06:19.458945128Z
+    - apache-0.2.0.tgz
+    version: 0.2.0
+generated: 2020-06-08T13:00:13.101653052Z
